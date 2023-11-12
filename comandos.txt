@@ -1,0 +1,38 @@
+Comando: Avería de freno de un solo coche
+Respuesta: Tienes que ir a la llave neumática de freno de ese coche y cerrarla
+
+Comando: Avería de freno de todos los coches
+Respuesta: Selecciona llave especial y pulsa by pass de freno
+
+Comando: Falta de tracción por puertas abiertas
+Respuesta: Tienes que intentar cerrar las puertas y si no puedes, desalojar de viajeros
+
+Comando: Café frío
+Respuesta: Tienes que calentarlo en el microondas de la estación del Norte
+
+Comando: Café con chocolate
+Respuesta: Tienes que buscar el chocolate en los armarios de color verde del tren
+
+Comando: Avería de la cafetera
+Respuesta: Dale unos golpecitos con la cuchara de palo y se arreglará
+
+Comando: Pasear al perro
+Respuesta: Cuando pasees al perro llévate bolsas para recoger sus excrementos.
+
+Comando: ¿Qué temperatura hace?
+Respuesta: Estamos a 25 graditos.
+
+Comando: Enciende el arire acondicionado.
+Respuesta: Ya estamos a la temperatura deseada.
+
+Comando: ¿Qué tiempo hace hoy?
+Respuesta: Estará soleado todo el día.
+
+Comando: Hace mucho sol
+Respuesta: Reorienta las placas solares.
+
+Comando: Instalar aplicación web progresiva
+Respuesta: Abre la url en cuestión en Edge e intala, así de simple.
+
+
+

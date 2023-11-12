@@ -1,0 +1,19 @@
+<Files "config.php">
+    Require all denied
+</Files>
+
+<Files "funcionesLenguaje.php">
+    Require all denied
+</Files>
+
+<Files "jsoneador_de_texto_plano.php">
+    Require all denied
+</Files>
+
+<Files "sinonimos.json">
+    Require all denied
+</Files>
+
+<Files "cargador_comandos.php">
+    Require all denied
+</Files>
